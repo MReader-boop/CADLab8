@@ -1,0 +1,4 @@
+Managers:
+5
+Workers:
+70

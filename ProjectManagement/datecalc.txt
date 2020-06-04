@@ -1,0 +1,6 @@
+Worker amount: 70
+Manager amount: 5
+Months given to finish the job: 5
+Job finished in  8,1 months.
+You haven't met the deadline! You should check the number of workers and managers or give your workers more time.
+You have 20 unmanaged workers!
